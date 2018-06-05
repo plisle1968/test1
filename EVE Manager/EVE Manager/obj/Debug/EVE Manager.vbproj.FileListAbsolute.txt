@@ -1,0 +1,20 @@
+D:\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.exe
+D:\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.pdb
+D:\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.xml
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE_Manager.frmMain.resources
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE_Manager.Resources.resources
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.vbproj.GenerateResource.Cache
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.exe
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.xml
+D:\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.pdb
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.exe
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.xml
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.pdb
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.exe
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.pdb
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\bin\Debug\EVE Manager.xml
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE_Manager.frmMain.resources
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE_Manager.Resources.resources
+D:\Users\Peter\Dropbox\Projects\EVE Manager\EVE Manager\obj\Debug\EVE Manager.vbproj.GenerateResource.Cache
